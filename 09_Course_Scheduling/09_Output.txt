@@ -1,0 +1,104 @@
+Term 1
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	None		None		English		BasicProgramming		None		
+Class 2 	None		None		English		BasicProgramming		None		
+Class 3 	English		BasicProgramming		None		None		None		
+Class 4 	English		BasicProgramming		None		None		None		
+Class 5 	English		BasicProgramming		None		None		None		
+Class 6 	None		None		None		None		None		
+Class 7 	None		None		None		None		None		
+Class 8 	Chinese		DiscreteMath		None		DiscreteMath		None		
+Class 9 	Chinese		DiscreteMath		None		DiscreteMath		None		
+Class 10	Chinese		DiscreteMath		None		DiscreteMath		None		
+
+Term 2
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	AlgorithmDesign		None		English		AlgorithmDesign		None		
+Class 2 	AlgorithmDesign		None		English		AlgorithmDesign		None		
+Class 3 	English		None		None		None		None		
+Class 4 	English		None		None		None		None		
+Class 5 	English		None		None		None		None		
+Class 6 	DataStructure		None		DataStructure		AssemblyLanguage		None		
+Class 7 	DataStructure		None		DataStructure		AssemblyLanguage		None		
+Class 8 	AssemblyLanguage		None		None		None		None		
+Class 9 	AssemblyLanguage		None		None		None		None		
+Class 10	AssemblyLanguage		None		None		None		None		
+
+Term 3
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	None		None		English		None		None		
+Class 2 	None		None		English		None		None		
+Class 3 	English		MCU_application		None		None		None		
+Class 4 	English		MCU_application		None		None		None		
+Class 5 	English		MCU_application		None		None		None		
+Class 6 	MicrocomputerPrinciple		None		MicrocomputerPrinciple		CompilationPrinciple		None		
+Class 7 	MicrocomputerPrinciple		None		MicrocomputerPrinciple		CompilationPrinciple		None		
+Class 8 	ComputerOrganization		CompilationPrinciple		ComputerOrganization		None		None		
+Class 9 	ComputerOrganization		CompilationPrinciple		ComputerOrganization		None		None		
+Class 10	ComputerOrganization		CompilationPrinciple		ComputerOrganization		None		None		
+
+Term 4
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	None		None		English		None		None		
+Class 2 	None		None		English		None		None		
+Class 3 	English		AdvancedMathematics		None		AdvancedMathematics		None		
+Class 4 	English		AdvancedMathematics		None		AdvancedMathematics		None		
+Class 5 	English		AdvancedMathematics		None		AdvancedMathematics		None		
+Class 6 	OperatingSystemPrinciple		None		OperatingSystemPrinciple		DatabasePrinciple		None		
+Class 7 	OperatingSystemPrinciple		None		OperatingSystemPrinciple		DatabasePrinciple		None		
+Class 8 	DatabasePrinciple		LinearAlgebra		None		LinearAlgebra		None		
+Class 9 	DatabasePrinciple		LinearAlgebra		None		LinearAlgebra		None		
+Class 10	DatabasePrinciple		LinearAlgebra		None		LinearAlgebra		None		
+
+Term 5
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	None		None		English		None		None		
+Class 2 	None		None		English		None		None		
+Class 3 	English		ComputerCulture		None		None		None		
+Class 4 	English		ComputerCulture		None		None		None		
+Class 5 	English		ComputerCulture		None		None		None		
+Class 6 	GeneralPhysics		None		GeneralPhysics		None		None		
+Class 7 	GeneralPhysics		None		GeneralPhysics		None		None		
+Class 8 	NumericalAnalysis		ComputerSystemStructure		NumericalAnalysis		ComputerSystemStructure		None		
+Class 9 	NumericalAnalysis		ComputerSystemStructure		NumericalAnalysis		ComputerSystemStructure		None		
+Class 10	NumericalAnalysis		ComputerSystemStructure		NumericalAnalysis		ComputerSystemStructure		None		
+
+Term 6
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	None		None		English		None		None		
+Class 2 	None		None		English		None		None		
+Class 3 	English		DataCommunication		Java		DataCommunication		None		
+Class 4 	English		DataCommunication		Java		DataCommunication		None		
+Class 5 	English		DataCommunication		Java		DataCommunication		None		
+Class 6 	None		None		ComputerNetwork		None		None		
+Class 7 	None		None		ComputerNetwork		None		None		
+Class 8 	ComputerNetwork		ObjectOrientedProgramming		None		None		None		
+Class 9 	ComputerNetwork		ObjectOrientedProgramming		None		None		None		
+Class 10	ComputerNetwork		ObjectOrientedProgramming		None		None		None		
+
+Term 7
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	None		None		English		PowerBuilder		ASP_Programming		
+Class 2 	None		None		English		PowerBuilder		ASP_Programming		
+Class 3 	English		PowerBuilder		ASP_Programming		None		None		
+Class 4 	English		PowerBuilder		ASP_Programming		None		None		
+Class 5 	English		PowerBuilder		ASP_Programming		None		None		
+Class 6 	None		None		C#.net		None		None		
+Class 7 	None		None		C#.net		None		None		
+Class 8 	C#.net		VC++		None		None		None		
+Class 9 	C#.net		VC++		None		None		None		
+Class 10	C#.net		VC++		None		None		None		
+
+Term 8
+		    Day 1		Day 2		Day 3		Day 4		Day 5		
+Class 1 	None		None		English		VB.net		C++Builder		
+Class 2 	None		None		English		VB.net		C++Builder		
+Class 3 	English		VB.net		C++Builder		None		None		
+Class 4 	English		VB.net		C++Builder		None		None		
+Class 5 	English		VB.net		C++Builder		None		None		
+Class 6 	None		None		JSP_Programming		Delphi		None		
+Class 7 	None		None		JSP_Programming		Delphi		None		
+Class 8 	JSP_Programming		Delphi		None		None		None		
+Class 9 	JSP_Programming		Delphi		None		None		None		
+Class 10	JSP_Programming		Delphi		None		None		None		
+
